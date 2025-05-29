@@ -4,5 +4,5 @@
   "assets": {
     "directory": "./public"  // ここが重要！さっき作ったフォルダの名前
   },
-  "main": "src/index.ts"
+  "main": "src/index.html"
 }
