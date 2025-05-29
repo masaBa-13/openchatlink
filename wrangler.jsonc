@@ -1,8 +1,5 @@
 {
   "name": "openchatlinker",  // これは適当な名前でOK
   "compatibility_date": "2025-05-29", // 日付はそのままでOK
-  "assets": {
-    "directory": "./public"  // ここが重要！さっき作ったフォルダの名前
-  },
   "main": "public/index.html"
 }
