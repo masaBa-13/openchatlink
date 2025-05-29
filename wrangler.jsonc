@@ -1,5 +1,5 @@
 {
   "name": "openchatlinker",  // これは適当な名前でOK
   "compatibility_date": "2025-05-29", // 日付はそのままでOK
-  "main": "public/index.html"
+  "main": "public/worker.js"
 }
