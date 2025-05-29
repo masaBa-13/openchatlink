@@ -3,5 +3,6 @@
   "compatibility_date": "2025-05-29", // 日付はそのままでOK
   "assets": {
     "directory": "./public"  // ここが重要！さっき作ったフォルダの名前
-  }
+  },
+  "main": "src/index.ts"
 }
